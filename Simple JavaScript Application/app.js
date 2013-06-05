@@ -70,3 +70,9 @@ $(function($){
 });
 
 
+
+var data = load('css/styles.css');
+console.log(data);
+var styles = document.createElement('style');
+$('head').append(styles);
+$('style').append("body {background-color: grey;}");

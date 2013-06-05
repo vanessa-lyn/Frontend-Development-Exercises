@@ -1,0 +1,14 @@
+{
+  "name": "javascript-app-test",
+  "version": "0.1.0",
+  "description": "test to determine skill level",
+  "main": "app.js",
+  "author": "vanessa-lyn",
+  "license": "BSD",
+  "readmeFilename": "readme.md",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.2"
+  }
+}
